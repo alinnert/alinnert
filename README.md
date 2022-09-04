@@ -8,7 +8,7 @@
 
 ## 🌍 Personal Websites
 
-- [Linnert Media](https://github.com/alinnert/linnertmedia) - My website
+- [Linnert Media](https://github.com/alinnert/linnertmedia) &mdash; My website
 
 ## 🔥 Active Projects
 
