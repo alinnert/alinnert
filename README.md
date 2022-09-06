@@ -52,5 +52,4 @@
   ### 📦 Archived
 
   - [TState](https://github.com/alinnert/tstate) ∷ State management library (*Will likely be replaced by [Mana](https://github.com/alinnert/mana)'s state management library*)
-  - [Lumen Auth Reference](https://github.com/alinnert/lumen-auth-reference)
 </details>
