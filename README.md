@@ -42,7 +42,6 @@
   - [Markdown CLI](https://github.com/alinnert/markdown-cli) ∷ A CLI tool to quickly convert markdown to html (*I don't need it anymore*)
   - [Protofiles](https://github.com/alinnert/protofiles) ∷ Tool to create new files by templates (*Not sure if I'll continue working on this*)
   - [SSH Tool](https://github.com/alinnert/sshtool) ∷ SSH tools with planned GUI (*Not sure if I'll continue working on this*)
-  - [TState](https://github.com/alinnert/tstate) ∷ State management library (*It's not needed anymore*)
   - [Type Case](https://github.com/alinnert/type-case) ∷ Text editor for ChromeOS (*Will probably be replaced by [Zenpad](https://github.com/alinnert/zenpad)*)
 
   ### 🧹 Craft CMS 2 Plugins (no active development)
@@ -52,5 +51,6 @@
 
   ### 📦 Archived
 
+  - [TState](https://github.com/alinnert/tstate) ∷ State management library (*Will likely be replaced by [Mana](https://github.com/alinnert/mana)'s state management library*)
   - [Lumen Auth Reference](https://github.com/alinnert/lumen-auth-reference)
 </details>
