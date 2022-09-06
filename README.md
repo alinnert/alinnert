@@ -6,11 +6,15 @@
 - [Electron TS React template](https://github.com/alinnert/electron-ts-react-template)
 - [Go session authentication template](https://github.com/alinnert/go-session-auth-template)
 
-### 🌍 Personal Websites
+### 🌍 Personal websites
 
 - [Linnert Media](https://github.com/alinnert/linnertmedia) &mdash; My website
 
-### 💡 Ideas / Unfinished
+### 🔥 Active projects
+
+- [WebdevHome](https://github.com/webdevhome/webdevhome.github.io) &mdash; A collection of links for web developers
+
+### 💡 Ideas / unfinished
 
 - [Mana](https://github.com/alinnert/mana) &mdash; A library to attach JS to existing HTML elements, will maybe also include a custom state management library inspired by Recoil
 - [Zenpad](https://github.com/alinnert/zenpad) &mdash; A web based text editor
