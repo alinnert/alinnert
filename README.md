@@ -28,8 +28,8 @@
 
 - [ProjectFusion](https://github.com/alinnert/project-fusion) ∷ **TS | React | Redux Toolkit | TailwindCSS** ∷ Project management and notes taking tool
 - [Abfuhrkalender](https://github.com/alinnert/abfuhrkalender) ∷ **TS | React | Recoil | Sass** ∷ Printable calender creator, can also load and display litter service data
-- [Entwickler-AHK](https://github.com/alinnert/entwickler-ahk) ∷ An AutoHotkey script with my custom keyboard layout
-- [QMK firmware](https://github.com/alinnert/qmk_firmware) ∷ The QMK firmware repository, also containing my custom keyboard layout
+- [Entwickler-AHK](https://github.com/alinnert/entwickler-ahk) ∷ **AHK** ∷ An AutoHotkey script with my custom keyboard layout
+- [QMK firmware](https://github.com/alinnert/qmk_firmware) ∷ **C** ∷ The QMK firmware repository, also containing my custom keyboard layout
 
 <hr>
 
@@ -38,11 +38,11 @@
 
   ### ❓ Unknown / no plans currently
 
-  - [Bookmarks](https://github.com/alinnert/bookmarks) ∷ Self hostet bookmarks tool (*Maybe I'll look into this at a later point in time*)
-  - [Markdown CLI](https://github.com/alinnert/markdown-cli) ∷ A CLI tool to quickly convert markdown to html (*I don't need it anymore*)
-  - [Protofiles](https://github.com/alinnert/protofiles) ∷ Tool to create new files by templates (*Not sure if I'll continue working on this*)
-  - [SSH Tool](https://github.com/alinnert/sshtool) ∷ SSH tools with planned GUI (*Not sure if I'll continue working on this*)
-  - [Type Case](https://github.com/alinnert/type-case) ∷ Text editor for ChromeOS (*Will probably be replaced by [Zenpad](https://github.com/alinnert/zenpad)*)
+  - [Bookmarks](https://github.com/alinnert/bookmarks) ∷ **Go | TS | React** ∷ Self hostet bookmarks tool (*Maybe I'll look into this at a later point in time*)
+  - [Markdown CLI](https://github.com/alinnert/markdown-cli) ∷ **JS** ∷ A CLI tool to quickly convert markdown to html (*I don't need it anymore*)
+  - [Protofiles](https://github.com/alinnert/protofiles) ∷ **TS** ∷ Tool to create new files by templates (*Not sure if I'll continue working on this*)
+  - [SSH Tool](https://github.com/alinnert/sshtool) ∷ **Dart** ∷ SSH tools with planned GUI (*Not sure if I'll continue working on this*)
+  - [Type Case](https://github.com/alinnert/type-case) ∷ **JS** ∷ Text editor for ChromeOS (*Will probably be replaced by [Zenpad](https://github.com/alinnert/zenpad)*)
 
   ### 🧹 Craft CMS 2 Plugins (no active development)
 
