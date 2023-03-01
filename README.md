@@ -39,7 +39,6 @@
 
   ### ❓ Unknown / no plans currently
 
-  - [Bookmarks](https://github.com/alinnert/bookmarks) ∷ **Go | TS | React** ∷ Self hostet bookmarks tool (*Maybe I'll look into this at a later point in time*)
   - [Markdown CLI](https://github.com/alinnert/markdown-cli) ∷ **JS** ∷ A CLI tool to quickly convert markdown to html (*I don't need it anymore*)
   - [Protofiles](https://github.com/alinnert/protofiles) ∷ **TS** ∷ Tool to create new files by templates (*Not sure if I'll continue working on this*)
   - [SSH Tool](https://github.com/alinnert/sshtool) ∷ **Dart** ∷ SSH tools with planned GUI (*Not sure if I'll continue working on this*)
