@@ -1,11 +1,5 @@
 ## Projects overview
 
-### 📄 Templates
-
-- [npm TS library template](https://github.com/alinnert/npm-ts-library)
-- [Electron TS React template](https://github.com/alinnert/electron-ts-react-template)
-- [Go session authentication template](https://github.com/alinnert/go-session-auth-template)
-
 ### 🌍 Personal websites
 
 - [Linnert Media](https://github.com/alinnert/linnertmedia) ∷ **Hugo | TailwindCSS** ∷ My website, a blog about development
@@ -31,6 +25,12 @@
 - [Abfuhrkalender](https://github.com/alinnert/abfuhrkalender) ∷ **TS | React | Recoil | Sass** ∷ Printable calender creator, can also load and display litter service data
 - [Entwickler-AHK](https://github.com/alinnert/entwickler-ahk) ∷ **AHK** ∷ An AutoHotkey script with my custom keyboard layout
 - [QMK firmware](https://github.com/alinnert/qmk_firmware) ∷ **C** ∷ The QMK firmware repository, also containing my custom keyboard layout
+
+### 📄 Repository templates
+
+- [npm TS library template](https://github.com/alinnert/npm-ts-library)
+- [Electron TS React template](https://github.com/alinnert/electron-ts-react-template)
+- [Go session authentication template](https://github.com/alinnert/go-session-auth-template)
 
 <hr>
 
