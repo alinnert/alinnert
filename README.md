@@ -7,6 +7,7 @@
 ### 🔥 Active projects
 
 - [WebdevHome](https://github.com/webdevhome/webdevhome.github.io) ∷ **TS | React | Redux | TailwindCSS** ∷ A collection of links for web developers.
+- [Reactive Value](https://github.com/alinnert/reactive-value) ∷ **TS** ∷ A reactive value library for JavaScript based on `EventTarget` and `CustomEvent`, inspired by Recoil.
 - [xt](https://github.com/alinnert/xt) ∷ **Go** ∷ A command line tool to work with XML Schema files.
 
 ### 💡 Ideas / unfinished
