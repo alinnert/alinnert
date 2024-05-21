@@ -24,6 +24,7 @@
 
 - [Timetracker](https://github.com/alinnert/timetracker) ∷ **TS | Vue | TailwindCSS** ∷ A web app for tracking working time.
 - [ProjectFusion](https://github.com/alinnert/project-fusion) ∷ **TS | React | Redux Toolkit | TailwindCSS** ∷ Project management and notes taking tool.
+- [Leapwork Data Extractor](https://github.com/alinnert/leapwork-data-extractor) ∷ **JS** ∷ Extracts specific information from Leapwork test run data.
 - [Abfuhrkalender](https://github.com/alinnert/abfuhrkalender) ∷ **TS | React | Recoil | Sass** ∷ Printable calender creator, can also load and display litter service data.
 - [Entwickler-AHK](https://github.com/alinnert/entwickler-ahk) ∷ **AHK** ∷ An AutoHotkey script with my custom keyboard layout.
 - [QMK firmware](https://github.com/alinnert/qmk_firmware) ∷ **C** ∷ The QMK firmware repository, also containing my custom keyboard layout.
