@@ -7,18 +7,18 @@
 ### 🔥 Active projects
 
 - [WebdevHome](https://github.com/webdevhome/webdevhome.github.io) ∷ **TS | React | Redux | TailwindCSS** ∷ A collection of links for web developers.
-- [Reactive Value](https://github.com/alinnert/reactive-value) ∷ **TS** ∷ A reactive value library for JavaScript based on `EventTarget` and `CustomEvent`, inspired by Recoil.
-- [xt](https://github.com/alinnert/xt) ∷ **Go** ∷ A command line tool to work with XML Schema files.
-
-### 💡 Ideas / unfinished
-
-- [Mana](https://github.com/alinnert/mana) ∷ **TS** ∷ A library to attach JS to existing HTML elements, will maybe also include a custom state management library inspired by Recoil.
-- [Zenpad](https://github.com/alinnert/zenpad) ∷ **TS | Svelte | TailwindCSS** ∷ A web based text editor.
+- [AWE.write](https://github.com/alinnert/awewrite) ∷ **TS** ∷ A web based double text editor.
 
 ### ⌛️ Infrequent updates
 
 - [Tblr](https://github.com/alinnert/tblr) ∷ **JS** ∷ A tool to convert tabular data into an HTML table.
-- [AWE.write](https://github.com/alinnert/awewrite) ∷ **JS** ∷ A web based double text editor. (*Will be replaced by [Zenpad](https://github.com/alinnert/zenpad)*)
+- [xt](https://github.com/alinnert/xt) ∷ **Go** ∷ A command line tool to work with XML Schema files.
+
+### 💡 Ideas/unfinished
+
+- [Reactive Value](https://github.com/alinnert/reactive-value) ∷ **TS** ∷ A reactive value library for JavaScript based on `EventTarget` and `CustomEvent`, inspired by Recoil.
+- [Mana](https://github.com/alinnert/mana) ∷ **TS** ∷ A library to attach JS to existing HTML elements, will maybe also include a custom state management library inspired by Recoil.
+- [Zenpad](https://github.com/alinnert/zenpad) ∷ **TS | Svelte | TailwindCSS** ∷ A web based text editor.
 
 ### 🙃 Primarily for personal use
 
