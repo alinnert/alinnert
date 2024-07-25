@@ -1,5 +1,7 @@
 ## Projects overview
 
+*Updated: 2024-07-25*
+
 ### 🌍 Personal websites
 
 - [Linnert Media](https://github.com/alinnert/linnertmedia) ∷ **Hugo | TailwindCSS** ∷ My website, a blog about development.
