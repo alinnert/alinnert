@@ -20,14 +20,6 @@
 | [Tblr](https://github.com/alinnert/tblr) | JavaScript | A tool to convert tabular data into an HTML table. |
 | [xt](https://github.com/alinnert/xt) | Go | A command line tool to work with XML Schema files. |
 
-### 💡 Ideas/unfinished
-
-| Project | Tech stack | Description |
-| :------ | :--------- | :---------- |
-| [Reactive Value](https://github.com/alinnert/reactive-value) | TypeScript | A reactive value library for JavaScript based on `EventTarget` and `CustomEvent`, inspired by Recoil. |
-| [Mana](https://github.com/alinnert/mana) | TypeScript | A library to attach JS to existing HTML elements, will maybe also include a custom state management library inspired by Recoil. |
-| [Zenpad](https://github.com/alinnert/zenpad) | TypeScript, Svelte, TailwindCSS | A web based text editor. |
-
 ### 🙃 Primarily for personal use
 
 | Project | Tech stack | Description |
@@ -39,6 +31,14 @@
 | [Abfuhrkalender](https://github.com/alinnert/abfuhrkalender) | TypeScript, React, Recoil, Sass | Printable calender creator, can also load and display litter service data. |
 | [Entwickler-AHK](https://github.com/alinnert/entwickler-ahk) | AHK | An AutoHotkey script with my custom keyboard layout. |
 | [QMK firmware](https://github.com/alinnert/qmk_firmware) | C | The QMK firmware repository, also containing my custom keyboard layout. |
+
+### 💡 Ideas/unfinished
+
+| Project | Tech stack | Description |
+| :------ | :--------- | :---------- |
+| [Reactive Value](https://github.com/alinnert/reactive-value) | TypeScript | A reactive value library for JavaScript based on `EventTarget` and `CustomEvent`, inspired by Recoil. |
+| [Mana](https://github.com/alinnert/mana) | TypeScript | A library to attach JS to existing HTML elements, will maybe also include a custom state management library inspired by Recoil. |
+| [Zenpad](https://github.com/alinnert/zenpad) | TypeScript, Svelte, TailwindCSS | A web based text editor. |
 
 ### 📄 Repository templates
 
