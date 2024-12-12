@@ -12,6 +12,7 @@
 | :------ | :--------- | :---------- |
 | [WebdevHome](https://github.com/webdevhome/webdevhome.github.io) | TypeScript, React, Redux, TailwindCSS | A collection of links for web developers. |
 | [AWE.write](https://github.com/alinnert/awewrite) | TypeScript | A web based double text editor. |
+| [Kali](https://github.com/alinnert/kali) | TypeScript, Vue, Pinia, TailwindCSS | A generator for printable calendars. |
 
 ### ⌛️ Infrequent updates
 
