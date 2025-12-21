@@ -1,7 +1,7 @@
 ## 🗂️ Projects
 
 > [!note]
-> ⭐ Active deleopment • ❓ Future unknown • ⚠️ Will be deprecated soon • ❌ Deprecated
+> ⭐ Active deleopment • ❓ No active development • ⚠️ Will be deprecated soon • ❌ Deprecated
 
 | Status | Project | Tech stack | Description |
 | :----: | :------ | :--------- | :---------- |
@@ -10,6 +10,7 @@
 | ⭐ | [AWE.write](https://github.com/alinnert/awewrite) | **TypeScript** | A web based double text editor. |
 | ⭐ | [Kali](https://github.com/alinnert/kali) | **TypeScript**, Vue, Pinia, TailwindCSS | A generator for printable calendars. |
 | ⭐ | [Tblr](https://github.com/alinnert/tblr) | **JavaScript** | A tool to convert CSV into an HTML table. |
+| ⭐ | [edp](https://github.com/alinnert/edp) | **Java** | An Event Data Platform to quickly store and retrieve date/time-related data. |
 | ❓ | [xt](https://github.com/alinnert/xt) | **Go** | A command line tool to work with XML Schema files. (*Currently, there's no need for this tool*) |
 | ❓ | [ProjectFusion](https://github.com/alinnert/project-fusion) | **TypeScript**, React, Redux Toolkit, TailwindCSS | Project management and notes taking tool. (*Currently, there's no need for this tool*) |
 | ❓ | [Timetracker](https://github.com/alinnert/timetracker) | **TypeScript**, Vue, TailwindCSS | A web app for tracking working time. (*Currently, there's no need for this tool*) |
