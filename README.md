@@ -1,7 +1,7 @@
 ## 🗂️ Projects
 
 > [!note]
-> ⭐ Active deleopment • ❓ No active development • ⚠️ Will be deprecated soon • ❌ Deprecated
+> ⭐ Active deleopment • 💡 Reference code • ❓ No active development • ❌ Deprecated
 
 | Status | Project | Tech stack | Description |
 | :----: | :------ | :--------- | :---------- |
@@ -9,8 +9,10 @@
 | ⭐ | [WebdevHome](https://github.com/webdevhome/webdevhome.github.io) | **TypeScript**, React, Redux, TailwindCSS | A collection of links for web developers. |
 | ⭐ | [AWE.write](https://github.com/alinnert/awewrite) | **TypeScript** | A web based double text editor. |
 | ⭐ | [Kali](https://github.com/alinnert/kali) | **TypeScript**, Vue, Pinia, TailwindCSS | A generator for printable calendars. |
+| ⭐ | [Abfuhrkalender](https://github.com/alinnert/abfuhrkalender) | **TypeScript**, React, Recoil, Sass | Printable calender creator, can also load and display litter service data. (*Will be integrated into [Kali](https://github.com/alinnert/kali)*) |
 | ⭐ | [Tblr](https://github.com/alinnert/tblr) | **JavaScript** | A tool to convert CSV into an HTML table. |
 | ⭐ | [edp](https://github.com/alinnert/edp) | **Java** | An Event Data Platform to quickly store and retrieve date/time-related data. |
+| 💡 | [songsmanager]() | **Java** | A reference project on how to use JPA/Hibernate. |
 | ❓ | [xt](https://github.com/alinnert/xt) | **Go** | A command line tool to work with XML Schema files. (*Currently, there's no need for this tool*) |
 | ❓ | [ProjectFusion](https://github.com/alinnert/project-fusion) | **TypeScript**, React, Redux Toolkit, TailwindCSS | Project management and notes taking tool. (*Currently, there's no need for this tool*) |
 | ❓ | [Timetracker](https://github.com/alinnert/timetracker) | **TypeScript**, Vue, TailwindCSS | A web app for tracking working time. (*Currently, there's no need for this tool*) |
@@ -19,7 +21,6 @@
 | ❓ | [Entwickler-AHK](https://github.com/alinnert/entwickler-ahk) | **AHK** | An AutoHotkey script with my custom keyboard layout. |
 | ❓ | [Reactive Value](https://github.com/alinnert/reactive-value) | **TypeScript** | A reactive value library, inspired by Recoil and Jotai, but framework agnostic. (*There are a lot of alternatives now*) |
 | ❓ | [Mana](https://github.com/alinnert/mana) | **TypeScript** | A library to attach JS to existing HTML elements. (*Idea is similar to Web Components with `is` attribute*) |
-| ⚠️ | [Abfuhrkalender](https://github.com/alinnert/abfuhrkalender) | **TypeScript**, React, Recoil, Sass | Printable calender creator, can also load and display litter service data. (*Will be integrated into [Kali](https://github.com/alinnert/kali)*) |
 | ❌ | [Type Case](https://github.com/alinnert/type-case) | **JavaScript** | Text editor for ChromeOS. (*Will replaced by a future version of [AWE.write](https://github.com/alinnert/awewrite)*) |
 | ❌ | [Zenpad](https://github.com/alinnert/zenpad) | **TypeScript**, Svelte, TailwindCSS | A web based text editor. (*Ideas will be part of a future version of [AWE.write](https://github.com/alinnert/awewrite)*) |
 | ❌ | [Markdown CLI](https://github.com/alinnert/markdown-cli) | **JavaScript** | A CLI tool to quickly convert markdown to html. (*I don't need it anymore*) |
