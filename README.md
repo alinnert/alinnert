@@ -12,7 +12,7 @@
 | ⭐ | [Abfuhrkalender](https://github.com/alinnert/abfuhrkalender) | **TypeScript**, React, Recoil, Sass | Printable calender creator, can also load and display litter service data. (*Will be integrated into [Kali](https://github.com/alinnert/kali)*) |
 | ⭐ | [Tblr](https://github.com/alinnert/tblr) | **JavaScript** | A tool to convert CSV into an HTML table. |
 | ⭐ | [edp](https://github.com/alinnert/edp) | **Java** | An Event Data Platform to quickly store and retrieve date/time-related data. |
-| 💡 | [songsmanager]() | **Java** | A reference project on how to use JPA/Hibernate. |
+| 💡 | [songsmanager](https://github.com/alinnert/songsmanager) | **Java** | A reference project on how to use JPA/Hibernate. |
 | ❓ | [xt](https://github.com/alinnert/xt) | **Go** | A command line tool to work with XML Schema files. (*Currently, there's no need for this tool*) |
 | ❓ | [ProjectFusion](https://github.com/alinnert/project-fusion) | **TypeScript**, React, Redux Toolkit, TailwindCSS | Project management and notes taking tool. (*Currently, there's no need for this tool*) |
 | ❓ | [Timetracker](https://github.com/alinnert/timetracker) | **TypeScript**, Vue, TailwindCSS | A web app for tracking working time. (*Currently, there's no need for this tool*) |
